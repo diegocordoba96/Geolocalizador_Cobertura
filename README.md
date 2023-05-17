@@ -1,6 +1,6 @@
 # App Geolocalización de Cobertura
 
-API REST desarrolada con Django REST framework, permite el registro de coberturas por poligono o zonas y asociar planes o servicios a dicha cobertura. Enviandole una petición a la api con latitud y longitud, la API responderá si existe cobertura en en ese punto e indicara los planes asociados a dicha cobertura 
+API REST desarrollada con Django REST framework, permite el registro de coberturas por polígono o zonas y asociar planes o servicios a dicha cobertura. Enviándole una petición a la api con latitud y longitud, la API responderá si existe cobertura en en ese punto e indicara los planes asociados a dicha cobertura
 
 
 
